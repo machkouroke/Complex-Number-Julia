@@ -10,14 +10,14 @@ Et oui encore une autre implémentation de nombre complexe😅 <br>
 - Utiliser des complexe comme un types natif avec interopérabilité avec les autres types
 - Calculer l'exponentielle d'un complexe
 - Calculer le module d'un complexe
-- Bien d'autress
+- Bien d'autres
 
 
 ## Comment l'utiliser
 - Cloner le répository avec:
-```
+```shell
 git clone https://github.com/machkouroke/Wordle_Solver.git
-```
+```julia
 - Inclure le fichier dans le REPL Julia
 ```
 include("Complexe.jl")
