@@ -17,9 +17,9 @@ Et oui encore une autre implémentation de nombre complexe😅 <br>
 - Cloner le répository avec:
 ```shell
 git clone https://github.com/machkouroke/Wordle_Solver.git
-```julia
-- Inclure le fichier dans le REPL Julia
 ```
+- Inclure le fichier dans le REPL Julia
+```julia
 include("Complexe.jl")
 ```
 ---
